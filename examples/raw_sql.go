@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	supabaseorm "github.com/zoc/supabase-orm/src"
+	supabaseorm "github.com/zoc/supabase-orm"
 )
 
 // RawSQLExample demonstrates how to use raw SQL queries

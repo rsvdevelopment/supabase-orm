@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	supabaseorm "github.com/zoc/supabase-orm/src"
+	supabaseorm "github.com/zoc/supabase-orm"
 )
 
 // AuthExample demonstrates how to use the authentication features

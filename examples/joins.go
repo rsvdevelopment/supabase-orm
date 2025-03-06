@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	supabaseorm "github.com/zoc/supabase-orm/src"
+	supabaseorm "github.com/zoc/supabase-orm"
 )
 
 // UserModel represents a user in the database

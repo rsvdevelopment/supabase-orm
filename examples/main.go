@@ -1,4 +1,4 @@
-package main
+package examples
 
 import (
 	"context"
@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	supabaseorm "github.com/zoc/supabase-orm/src"
+	supabaseorm "github.com/zoc/supabase-orm"
 )
 
 // User represents a user in the database
